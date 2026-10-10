@@ -8,6 +8,8 @@ I build verifiable infrastructure for the agentic economy: systems where what an
 **[PriorSeal](https://github.com/imokokok/PriorSeal)** — explicit authorization connected to observed EVM execution, in a portable receipt another party can verify independently.
 → [priorseal.xyz](https://priorseal.xyz)
 
+**[Research](https://github.com/imokokok/research)** — field notes and first-party audits from operating paid agent infrastructure: settlement data, RPC quirks, measurement methods.
+
 **Agent-native commerce**: Insight's paid endpoints settle per call over both [x402](https://www.oracleinsight.xyz/ai) and [MPP](https://mpp.dev/services) — no keys, no accounts — and I maintain [x402-quality](https://www.oracleinsight.xyz/x402-quality/v0), a public quality bar for agentic commerce.
 
 I work in public: issues and PRs are the fastest way to reach me.
